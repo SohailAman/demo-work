@@ -1,6 +1,7 @@
 /* phone */
 html {
 	scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 
 body {
@@ -148,6 +149,7 @@ body.site:before {
 
 #wb_element_instance280_0 {
 	width: 97.64%;
+	margin-left: auto;
 	height: 55px;
 	max-width: 100%;
 	flex: 0 0 auto;
@@ -211,9 +213,9 @@ body.site:before {
 	padding: 0 25px 22px 25px;
 	text-transform: none;
 	border: 0px none #000000;
-	font: normal normal 14px 'Archivo Black', Arial, sans-serif;
+	font: normal normal 16px 'Archivo Black', Arial, sans-serif;
 	text-decoration: none;
-	color: #ffffff !important;
+	color: #000 !important;
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -225,7 +227,7 @@ body.site:before {
 	border: 0px none #000000;
 	font: normal normal 14px 'Archivo Black', Arial, sans-serif;
 	text-decoration: underline;
-	color: #bed0d9;
+	color: #000 !important;
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -233,7 +235,7 @@ body.site:before {
 #wb_element_instance280_0 li.active>a,
 #wb_element_instance280_0-det li.active>a {
 	border: 0px none #000000;
-	font: normal normal 14px 'Archivo Black', Arial, sans-serif;
+	font: normal normal 16px 'Archivo Black', Arial, sans-serif;
 	text-decoration: underline;
 	color: #bed0d9;
 	line-height: 16px;
@@ -265,7 +267,7 @@ body.site:before {
 	border-radius: 0px 0px 0px 0px;
 	min-width: 20px;
 	min-height: 20px;
-	padding: 24px 24px 28px 24px;
+	padding: 24px 24px 0 24px;
 	background: transparent none repeat scroll left top;
 	background-size: auto auto;
 	justify-items: center;
@@ -299,7 +301,7 @@ body.site:before {
 }
 
 #wb_element_instance273_0>.wb_shp {
-	background: radial-gradient(#0b4a8d, #103071);
+	background: #FFEDED;
 	border: 5px none rgba(192, 192, 192, 0.95);
 	border-radius: 0px 0px 0px 0px;
 	-moz-border-radius: 0px 0px 0px 0px;
@@ -413,6 +415,11 @@ body.site:before {
 	flex: 0 0 auto;
 }
 
+.counter-col img,
+.features-icon1 img {
+	filter: hue-rotate(-115deg);
+}
+
 #wb_element_instance3_1>.wb_content {
 	border: 0px none #000000;
 	-moz-border-radius: 0px 0px 0px 0px;
@@ -421,7 +428,7 @@ body.site:before {
 	min-width: 20px;
 	min-height: 20px;
 	padding: 0px 12px 0px 12px;
-	background: radial-gradient(#145ba7, #0b4a8d, #103071) !important;
+	background: #04AD48 !important;
 	background: #073e8c none no-repeat scroll center center;
 	background-size: cover;
 	justify-items: stretch;

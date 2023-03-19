@@ -61,7 +61,7 @@
 
 .pb-uni-menu,
 .header {
-    background: radial-gradient(#145ba7, #0b4a8d, #103071) !important;
+    background: #04AD48 !important;
     border-bottom: 1px None #000;
     display: table;
     width: 100%
@@ -69,11 +69,24 @@
 
 .price-btn1 a,
 .price-btn1 a[rel="nofollow"],
-
 a.button,
 a.button--primary {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-    background-color: #141653 !important;
+    border: 2px solid #04AD48 !important;
+    color: #04AD48 !important;
+    padding: 10px 20px !important;
+    background-color: #fff !important;
+    border-radius: 12px !important;
+}
+
+.price-btn1 a:hover,
+.price-btn1 a[rel="nofollow"]:hover,
+a.button:hover,
+a.button--primary:hover {
+    border: 2px solid #04AD48 !important;
+    color: #ffffff !important;
+    padding: 10px 20px !important;
+    background-color: #1dcc63 !important;
 }
 
 .header__language-switcher .lang_list_class li a,
@@ -1806,7 +1819,7 @@ h4.blog-header__subtitle {
 }
 
 .tag ul li a {
-    color: #0270e0 !important
+    color: #04AD48 !important
 }
 
 .tag ul li a:hover {
@@ -1905,7 +1918,7 @@ h4.blog-header__subtitle {
 }
 
 .blog-index__post-content a {
-    color: #0270e0 !important
+    color: #04AD48 !important
 }
 
 .blog-index__post img {
@@ -2043,7 +2056,7 @@ h4.blog-header__subtitle {
 }
 
 .blog-post__meta a {
-    color: #0270e0 !important
+    color: #04AD48 !important
 }
 
 .blog-post__tags {
@@ -2899,7 +2912,7 @@ body .quote-icon svg {
 }
 
 .faq-div a {
-    color: #0270e0 !important
+    color: #04AD48 !important
 }
 
 .faq-div a:hover {
