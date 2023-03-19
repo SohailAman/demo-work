@@ -1,0 +1,19 @@
+.client-logo .item a {
+    cursor: auto !important
+}
+
+.header,
+.pb-uni-menu {
+    background: radial-gradient(#0b4a8d, #103071);
+    border-bottom: 1px #000;
+    display: table;
+    width: 100%
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .static.header-padding {
+        padding: 50px 15px !important
+    }
+}
+
+/*# sourceMappingURL=https://cdn2.hubspot.net/hub/8992116/hub_generated/template_assets/75946507521/1658239428857/Paubox_x_SaasSoft_child_theme/child.css */

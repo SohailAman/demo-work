@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Bentham';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/bentham/v18/VdGeAZQPEpYfmHglGWsxDA.ttf) format('truetype');
+}
