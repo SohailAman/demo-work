@@ -1,3 +1,7 @@
+* {
+    transition: all .15s;
+}
+
 .header__language-switcher .globe_class {
     background-image: none;
     width: 0;
@@ -74,16 +78,15 @@ a.button--primary {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     border: 2px solid #04AD48 !important;
     color: #04AD48 !important;
-    padding: 10px 20px !important;
+    padding: 8px 20px !important;
     background-color: #fff !important;
-    border-radius: 12px !important;
+    border-radius: 8px !important;
 }
 
 .price-btn1 a:hover,
 .price-btn1 a[rel="nofollow"]:hover,
 a.button:hover,
 a.button--primary:hover {
-    border: 2px solid #04AD48 !important;
     color: #ffffff !important;
     padding: 10px 20px !important;
     background-color: #1dcc63 !important;
