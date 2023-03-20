@@ -87,8 +87,9 @@ a.button--primary {
 .price-btn1 a[rel="nofollow"]:hover,
 a.button:hover,
 a.button--primary:hover {
-    color: #ffffff !important;
-    padding: 10px 20px !important;
+    padding: 8px 20px !important;
+    color: #ffffff !important; 
+border: 2px solid #04AD48 !important;
     background-color: #1dcc63 !important;
 }
 
