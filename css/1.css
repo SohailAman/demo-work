@@ -156,7 +156,11 @@ body.site:before {
 }
 
 #wb_element_instance280_0 ul {
-	background: #073e8c none repeat left top;
+	background: #FFFFFF none repeat left top;
+}
+
+#wb_element_instance280_0 ul li a {
+	color: #000;
 }
 
 #wb_element_instance280_0>ul {
@@ -215,7 +219,7 @@ body.site:before {
 	border: 0px none #000000;
 	font: normal normal 16px 'Archivo Black', Arial, sans-serif;
 	text-decoration: none;
-	color: #000 !important;
+	color: #000;
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -301,7 +305,7 @@ body.site:before {
 }
 
 #wb_element_instance273_0>.wb_shp {
-	background: #FFEDED;
+	background: #4cbb17;
 	border: 5px none rgba(192, 192, 192, 0.95);
 	border-radius: 0px 0px 0px 0px;
 	-moz-border-radius: 0px 0px 0px 0px;
@@ -417,7 +421,7 @@ body.site:before {
 
 .counter-col img,
 .features-icon1 img {
-	filter: hue-rotate(-115deg);
+	filter: hue-rotate(55deg);
 }
 
 #wb_element_instance3_1>.wb_content {
@@ -428,7 +432,7 @@ body.site:before {
 	min-width: 20px;
 	min-height: 20px;
 	padding: 0px 12px 0px 12px;
-	background: #04AD48 !important;
+	background: #6666a4 !important;
 	background: #073e8c none no-repeat scroll center center;
 	background-size: cover;
 	justify-items: stretch;
@@ -809,6 +813,10 @@ body.site:before {
 
 	#wb_element_instance280_0 ul {
 		background: transparent none no-repeat center top;
+	}
+
+	#wb_element_instance280_0 ul li a {
+		color: rgb(255, 242, 130);
 	}
 
 	#wb_element_instance280_0 .btn-collapser {

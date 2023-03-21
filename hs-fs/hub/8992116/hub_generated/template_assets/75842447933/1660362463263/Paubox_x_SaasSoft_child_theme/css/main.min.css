@@ -65,7 +65,7 @@
 
 .pb-uni-menu,
 .header {
-    background: #04AD48 !important;
+    background: #6666a4 !important;
     border-bottom: 1px None #000;
     display: table;
     width: 100%
@@ -76,8 +76,8 @@
 a.button,
 a.button--primary {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-    border: 2px solid #04AD48 !important;
-    color: #04AD48 !important;
+    border: 2px solid #6666a4 !important;
+    color: #6666a4 !important;
     padding: 8px 20px !important;
     background-color: #fff !important;
     border-radius: 8px !important;
@@ -88,9 +88,9 @@ a.button--primary {
 a.button:hover,
 a.button--primary:hover {
     padding: 8px 20px !important;
-    color: #ffffff !important; 
-border: 2px solid #04AD48 !important;
-    background-color: #1dcc63 !important;
+    color: #ffffff !important;
+    border: 2px solid #6666a4 !important;
+    background-color: #7676af !important;
 }
 
 .header__language-switcher .lang_list_class li a,
@@ -126,12 +126,12 @@ body .header__language-switcher .lang_list_class li a:hover,
 
 .header__language-switcher .lang_list_class li a.active-item,
 .navigation-primary a.active-item {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .header__language-switcher .lang_list_class li a:hover,
 .navigation-primary a:hover {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .level-2 .has-submenu:after,
@@ -312,14 +312,14 @@ body .header__language-switcher .lang_list_class li a:hover,
 
 .header__search form button {
     background-color: #000 !important;
-    border: 1px none #04AD48 !important;
+    border: 1px none #6666a4 !important;
     fill: #fff !important;
     border-radius: 0px 5px 5px 0
 }
 
 .header__search form button:hover {
     background-color: #2f3c54 !important;
-    border: 1px none #04AD48 !important;
+    border: 1px none #6666a4 !important;
     fill: #fff !important
 }
 
@@ -841,7 +841,7 @@ body .menu-default .submenu>.has-submenu>.menu-arrow-bg {
         top: 57px;
         left: 0;
         right: 0;
-        background-color: #04AD48 !important;
+        background-color: #6666a4 !important;
         box-shadow: 0px 2px 15px 3px rgba(0, 0, 0, 0.15);
         z-index: 9;
         width: 50%
@@ -1823,7 +1823,7 @@ h4.blog-header__subtitle {
 }
 
 .tag ul li a {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .tag ul li a:hover {
@@ -1922,7 +1922,7 @@ h4.blog-header__subtitle {
 }
 
 .blog-index__post-content a {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .blog-index__post img {
@@ -2025,7 +2025,7 @@ h4.blog-header__subtitle {
     display: inline-block;
     position: relative;
     background-color: #f5f5f5 !important;
-    fill: #04AD48 !important;
+    fill: #6666a4 !important;
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -2060,7 +2060,7 @@ h4.blog-header__subtitle {
 }
 
 .blog-post__meta a {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .blog-post__tags {
@@ -2609,7 +2609,7 @@ input#hs-pwd-widget-password {
 }
 
 .theme-color-1 {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .section-bottom {
@@ -2660,7 +2660,7 @@ input#hs-pwd-widget-password {
 
 .header-bg-content2 h1 span,
 .header-bg-content3 h1 span {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .footer-bg a {
@@ -2820,7 +2820,7 @@ body .features-col.box-effects:hover {
 
 .features-hover-border:after,
 .features-hover-border:before {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 .our-service-page .features-col {
@@ -2828,7 +2828,7 @@ body .features-col.box-effects:hover {
 }
 
 body .hs-multi-step-steps-container .hs-msf-step {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 body .multi-step-form-wrapper .hs-msf-step:before,
@@ -2856,7 +2856,7 @@ body .hs-multi-step-steps-container .hs-msf-step-wrapper.active .hs-msf-step {
 body .point-list ul li svg {
     width: 16px;
     height: 16px;
-    fill: #04AD48;
+    fill: #6666a4;
     display: table-cell;
     vertical-align: middle
 }
@@ -2898,7 +2898,7 @@ body .product-col.box-hover:hover {
 
 .product-col:after,
 .product-col:before {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 body .text-link2 a:hover,
@@ -2912,11 +2912,11 @@ body .text-link2 a {
 }
 
 body .quote-icon svg {
-    fill: #04AD48
+    fill: #6666a4
 }
 
 .faq-div a {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 .faq-div a:hover {
@@ -2951,12 +2951,12 @@ body .faq-link.box-effects:hover {
 
 body .counter-col:hover .counter-items-content:before,
 body .counter-col:hover .counter-items-content:after {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 body .counter-col .counter-items-content:before,
 body .counter-col .counter-items-content:after {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 body .counter-col {
@@ -3044,11 +3044,11 @@ body .price-col.price-hover:hover {
 }
 
 body .price-tag1 .price-con {
-    color: #04AD48
+    color: #6666a4
 }
 
 body .price-col .price-bottom-border:after {
-    border-bottom: 4px solid #04AD48;
+    border-bottom: 4px solid #6666a4;
     width: 20%;
     content: " ";
     display: table;
@@ -3114,12 +3114,12 @@ body .eastend-service-three,
 }
 
 body .testimonial-col .quotation_icon svg {
-    background-color: #04AD48;
+    background-color: #6666a4;
     fill: #fff
 }
 
 body .testimonial-col .test-name p {
-    color: #04AD48
+    color: #6666a4
 }
 
 body .testimonial-col:hover .test-name p {
@@ -3306,7 +3306,7 @@ body .client-ratings ul li svg {
 }
 
 .team-col h4:before {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 .our-about-team .team-col h4:before {
@@ -3326,7 +3326,7 @@ body .social-icons-list ul li {
 }
 
 body .social-icons-list ul li svg {
-    fill: #04AD48
+    fill: #6666a4
 }
 
 body .social-icons-list ul li:hover {
@@ -3672,23 +3672,23 @@ ul.no-list {
 body .skill-inner,
 body .billing-selectors__pricing-option.active,
 body .eastend-service-three-overlay .overlay-icon {
-    background-color: #04AD48 !important
+    background-color: #6666a4 !important
 }
 
 body .post-item-meta-date {
-    background-color: #04AD48
+    background-color: #6666a4
 }
 
 body .sub-con span,
 body .app-fun span,
 body .simplefilter li.active,
 body .faq-ques.active h5 {
-    color: #04AD48 !important
+    color: #6666a4 !important
 }
 
 body .social-links__icon {
     background-color: #f5f5f5;
-    fill: #04AD48
+    fill: #6666a4
 }
 
 body .social-links__icon:hover,
