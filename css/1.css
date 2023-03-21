@@ -305,7 +305,7 @@ body.site:before {
 }
 
 #wb_element_instance273_0>.wb_shp {
-	background: #4cbb17;
+	background: #00c4b0;
 	border: 5px none rgba(192, 192, 192, 0.95);
 	border-radius: 0px 0px 0px 0px;
 	-moz-border-radius: 0px 0px 0px 0px;
@@ -816,7 +816,7 @@ body.site:before {
 	}
 
 	#wb_element_instance280_0 ul li a {
-		color: rgb(255, 242, 130);
+		color: rgb(255, 242, 130) !important;
 	}
 
 	#wb_element_instance280_0 .btn-collapser {

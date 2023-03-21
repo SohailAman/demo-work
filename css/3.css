@@ -35,7 +35,6 @@ body.site:before {
 	opacity: 1;
 	box-sizing: border-box;
 	width: 33.47%;
-	height: 189px;
 	max-width: 698px;
 	flex: 0 0 auto;
 }
@@ -48,9 +47,10 @@ body.site:before {
 }
 
 #wb_element_instance276_0 img {
-	width: 100%;
+	width: 35%;
 	height: auto;
 }
+
 
 #wb_element_instance277_0 p:last-child {
 	margin-bottom: 0;
@@ -154,7 +154,7 @@ body.site:before {
 }
 
 #wb_element_instance280_0 ul {
-	background: #073e8c none repeat left top;
+	background: #FFF none repeat left top;
 }
 
 #wb_element_instance280_0>ul {
@@ -213,7 +213,7 @@ body.site:before {
 	border: 0px none #000000;
 	font: normal normal 14px 'Archivo Black', Arial, sans-serif;
 	text-decoration: none;
-	color: #ffffff;
+	color: #000;
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -225,7 +225,7 @@ body.site:before {
 	border: 0px none #000000;
 	font: normal normal 14px 'Archivo Black', Arial, sans-serif;
 	text-decoration: underline;
-	color: #bed0d9;
+	color: #000;
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -235,7 +235,7 @@ body.site:before {
 	border: 0px none #000000;
 	font: normal normal 16px 'Archivo Black', Arial, sans-serif;
 	text-decoration: underline;
-	color: #bed0d9;
+	color: rgb(255, 242, 130);
 	line-height: 16px;
 	background: transparent none no-repeat center top;
 }
@@ -299,7 +299,7 @@ body.site:before {
 }
 
 #wb_element_instance273_0>.wb_shp {
-	background-color: rgba(7, 62, 140, 0.95);
+	background-color: #00c4b0;
 	border: 5px none rgba(192, 192, 192, 0.95);
 	border-radius: 0px 0px 0px 0px;
 	-moz-border-radius: 0px 0px 0px 0px;
@@ -642,6 +642,12 @@ body.site:before {
 		background: transparent none no-repeat center top;
 	}
 
+	#wb_element_instance280_0 ul li a {
+		color: rgb(255, 242, 130);
+	}
+
+
+
 	#wb_element_instance280_0 .btn-collapser {
 		display: none;
 	}
@@ -753,6 +759,10 @@ body.site:before {
 		width: auto;
 		margin-left: 0;
 		margin-right: 0;
+	}
+
+	#wb_element_instance276_0 img {
+		margin: 0 auto;
 	}
 
 	#wb_element_instance277_0 {
